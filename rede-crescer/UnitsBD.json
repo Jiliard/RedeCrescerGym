@@ -1,0 +1,82 @@
+[
+    {
+        "name": "FitPlus Center",
+        "images": [
+            "https://example.com/fitplus-center-1.jpg",
+            "https://example.com/fitplus-center-2.jpg"
+        ],
+        "address": "Av. Paulista, 1200 - São Paulo, SP",
+        "map_link": "https://maps.app.goo.gl/fitpluscenter",
+        "hours": {
+            "weekday": "6:00 - 23:00",
+            "weekend": "8:00 - 18:00"
+        },
+        "monthly_fee": 199.99,
+        "contact_phone": "+5511999999999",
+        "whatsapp": "https://wa.me/5511999999999"
+    },
+    {
+        "name": "PowerHouse Gym",
+        "images": [
+            "https://example.com/powerhouse-gym-1.jpg",
+            "https://example.com/powerhouse-gym-2.jpg"
+        ],
+        "address": "Rua das Flores, 345 - Curitiba, PR",
+        "map_link": "https://maps.app.goo.gl/powerhousegym",
+        "hours": {
+            "weekday": "5:00 - 22:00",
+            "weekend": "9:00 - 16:00"
+        },
+        "monthly_fee": 149.90,
+        "contact_phone": "+5541999999999",
+        "whatsapp": "https://wa.me/5541999999999"
+    },
+    {
+        "name": "Extreme Fitness Club",
+        "images": [
+            "https://example.com/extreme-fitness-1.jpg",
+            "https://example.com/extreme-fitness-2.jpg"
+        ],
+        "address": "Av. Atlântica, 500 - Rio de Janeiro, RJ",
+        "map_link": "https://maps.app.goo.gl/extremefitnessclub",
+        "hours": {
+            "weekday": "6:00 - 22:00",
+            "weekend": "6:00 - 22:00"
+        },
+        "monthly_fee": 229.90,
+        "contact_phone": "+5521999999999",
+        "whatsapp": "https://wa.me/5521999999999"
+    },
+    {
+        "name": "HealthZone",
+        "images": [
+            "https://example.com/healthzone-1.jpg",
+            "https://example.com/healthzone-2.jpg"
+        ],
+        "address": "Av. João Pessoa, 789 - Porto Alegre, RS",
+        "map_link": "https://maps.app.goo.gl/healthzone",
+        "hours": {
+            "weekday": "24 hours",
+            "weekend": "24 hours"
+        },
+        "monthly_fee": 179.90,
+        "contact_phone": "+5551999999999",
+        "whatsapp": "https://wa.me/5551999999999"
+    },
+    {
+        "name": "StrongLife Academy",
+        "images": [
+            "https://example.com/stronglife-1.jpg",
+            "https://example.com/stronglife-2.jpg"
+        ],
+        "address": "Rua das Palmeiras, 101 - Belo Horizonte, MG",
+        "map_link": "https://maps.app.goo.gl/stronglifeacademy",
+        "hours": {
+            "weekday": "6:00 - 22:00",
+            "weekend": "8:00 - 14:00"
+        },
+        "monthly_fee": 189.90,
+        "contact_phone": "+5531999999999",
+        "whatsapp": "https://wa.me/5531999999999"
+    }
+]
