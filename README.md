@@ -7,3 +7,7 @@ Para construir a aplicação o **Gym App**:
 Para executar:
 
     npm start
+
+Para executar no navegador:
+
+    npx expo install react-native-web react-dom @expo/metro-runtime
