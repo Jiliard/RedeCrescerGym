@@ -2,7 +2,7 @@
 
 Para construir a aplicação o **Gym App**:
 
-    npm init
+    npm install -y
 
 Para executar:
 
