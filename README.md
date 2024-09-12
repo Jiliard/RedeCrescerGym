@@ -2,6 +2,7 @@
 
 Para construir a aplicação o **Gym App**:
 
+    cd rede-crescer
     npm install -y
 
 Para executar:
