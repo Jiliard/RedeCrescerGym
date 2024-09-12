@@ -33,8 +33,8 @@ export default function ContactListScreen({ navigation }) {
           renderItem={({item}) =>
           <TouchableOpacity onPress={ () => navigation.navigate('Feed', {contact: item})}>
             <View>
-              <Text style={styles.title}>{item.title}</Text>
-              <Text style={styles.text}>{item.title.items.title}</Text>
+              <Text style={styles.contact}>{item.title}</Text>
+              <Text style={styles.contact}>{item.title.items.title}</Text>
             </View>
           </TouchableOpacity>}
         />
@@ -52,15 +52,5 @@ const styles = StyleSheet.create({
   contact: {
     fontSize: 12,
     height: 18,
-  },
-  title:{
-    textAlign: center,
-    fontSize: 14,
-    fontWeight: bold
-  },
-  text:{
-    textAlign: center,
-    fontSize: 12,
-    fontWeight: light
   }
 })
